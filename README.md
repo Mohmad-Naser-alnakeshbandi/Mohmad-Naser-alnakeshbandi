@@ -6,7 +6,7 @@ Computer Science Student
 
 A computer science student in DHBW . I love to write code and dealing with technology challenges
 
-* 🌍  I'm based in Karlsruhe
+* 🌍  I'm based in Karlsruhe-Germany
 * 🖥️  See my portfolio at [Mohamad](http://mohmad-naser-alnakeshbandi.github.io/MohamadNaserAlnakeshbandi.github.io/)
 * ✉️  You can contact me at [mhmdn1381@gmail.com](mailto:mhmdn1381@gmail.com)
 * 🧠  I'm learning Data Science & AI
