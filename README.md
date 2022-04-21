@@ -1,15 +1,13 @@
-Hi 👋 My name is Mohamad Naser Alnakeshbandi
-============================================
+# Hi 👋 My name is Mohamad Naser Alnakeshbandi
 
-Computer Science Student
-------------------------
+## Computer Science Student
 
 A computer science student in DHBW . I love to write code and dealing with technology challenges
 
-* 🌍  I'm based in Karlsruhe-Germany
-* 🖥️  See my portfolio at [Mohamad](http://mohmad-naser-alnakeshbandi.github.io/MohamadNaserAlnakeshbandi.github.io/)
-* ✉️  You can contact me at [mhmdn1381@gmail.com](mailto:mhmdn1381@gmail.com)
-* 🧠  I'm learning Data Science & AI
+- 🌍 I'm based in Karlsruhe-Germany
+- 🖥️ See my portfolio at [Mohamad](http://mohmad-naser-alnakeshbandi.github.io/MohamadNaserAlnakeshbandi.github.io/)
+- ✉️ You can contact me at [mhmdn1381@gmail.com](mailto:mhmdn1381@gmail.com)
+- 🧠 I'm learning Data Science & AI
 
 ### Skills
 
@@ -26,6 +24,7 @@ A computer science student in DHBW . I love to write code and dealing with techn
 </p>
 
 ---
+
 ### **Socials**
 
 <p align="left"> <a href="https://www.facebook.com/people/محمد-رياض-النقشبندي/100010782363745/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Mohmad-Naser-alnakeshbandi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mohmad_alnakeshbandi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohamad-naser-alnakeshbandi-0b61a6222/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
@@ -34,12 +33,20 @@ A computer science student in DHBW . I love to write code and dealing with techn
 
 # Badges
 
-
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Mohmad-Naser-alnakeshbandi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohmad-Naser-alnakeshbandi&stroke=22c55e&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=22c55e&currStreakLabel=ef4444&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
+<table>
+  
+ <tr>
+ <td><a href="https://github.com/Mohmad-Naser-alnakeshbandi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohmad-Naser-alnakeshbandi&langs_count=10&title_color=ef4444&text_color=22c55e&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></td>
+<td><a href="http://www.github.com/Mohmad-Naser-alnakeshbandi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohmad-Naser-alnakeshbandi&stroke=22c55e&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=22c55e&currStreakLabel=ef4444&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a></td>
+</tr>
 
-<a href="https://github.com/Mohmad-Naser-alnakeshbandi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohmad-Naser-alnakeshbandi&langs_count=10&title_color=ef4444&text_color=22c55e&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</table>
+
+
+
+
 
 <b>Top Repositories</b>
 
