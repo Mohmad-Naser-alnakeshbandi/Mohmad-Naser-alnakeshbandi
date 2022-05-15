@@ -36,17 +36,5 @@ A computer science student in DHBW . I love to write code and dealing with techn
 
 ---
 
-# **Badges**
-
-<b>My GitHub Stats</b>
-
-<table>
-  <tr>
-    <td><a href="https://github.com/Mohmad-Naser-alnakeshbandi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohmad-Naser-alnakeshbandi&langs_count=10&title_color=ef4444&text_color=22c55e&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></td>
-    <td><a href="http://www.github.com/Mohmad-Naser-alnakeshbandi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohmad-Naser-alnakeshbandi&stroke=22c55e&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=22c55e&currStreakLabel=ef4444&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a></td>
-    
-  </tr>
-  </table>
-
 
 
