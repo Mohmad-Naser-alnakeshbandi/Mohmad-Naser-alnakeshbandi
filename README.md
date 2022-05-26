@@ -41,10 +41,11 @@
 
 #### Data science and CRM 
 <br>
+<p>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="SQL" />
 <img src="https://www.talend.com/images/logo-talend-logomark.png" width="36" height="36" alt="Talend" />
 <img src="https://upload.wikimedia.org/wikipedia/de/thumb/f/f9/Salesforce.com_logo.svg/1200px-Salesforce.com_logo.svg.png" width="36" height="36" alt="Talend" />
-
+</p>
 <hr>
 
 ## Socials
