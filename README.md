@@ -49,7 +49,7 @@
 
 ## Socials
 <br>
-
+<p>
 <a href="https://www.facebook.com/people/محمد-رياض-النقشبندي/100010782363745/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/Mohmad-Naser-alnakeshbandi" target="_blank" rel="noreferrer">
@@ -57,5 +57,6 @@
     </a> 
 <a href="http://www.instagram.com/mohmad_alnakeshbandi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
  <a href="https://www.linkedin.com/in/mohamad-naser-alnakeshbandi-0b61a6222/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
 
 
