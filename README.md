@@ -1,4 +1,4 @@
-# Hi 👋 I|'m Mohamad Naser Alnakeshbandi
+# Hi 👋 I'm Mohamad Naser Alnakeshbandi
 
 # Computer Science Student
 
