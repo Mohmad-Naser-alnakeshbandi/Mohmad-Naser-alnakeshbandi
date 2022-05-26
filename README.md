@@ -39,7 +39,8 @@ td{
 <br>
 
 <h2>Skills</h2>
-<table >
+<table  style=" table-layout: auto;
+    width: 100%;">
 <caption><h2>Web Technologie <h2></caption>
 <tr>
     <td>
