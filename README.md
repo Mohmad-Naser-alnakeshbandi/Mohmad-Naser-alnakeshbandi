@@ -23,7 +23,7 @@
 
 ## Skills
 <br>
-<table>
+<table >
     <tr>
         <th> Web Technologie </th>
         <th>  Programing languages </th>
@@ -31,30 +31,28 @@
     </tr>
     <tr>
         <td>  <p>
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="HTML5" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="Javascript" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="50" height="50" alt="HTML5" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="50" height="50" alt="Firebase" />
             </p> 
          </td>
         <td><p>
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C+">       
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="50" height="50" alt="C+">       
             <img src="https://emoji.gg/assets/emoji/java.png" width="64px" height="64px" alt="java">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" width="36" height="36" alt="Python" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" width="50" height="50" alt="Python" />
             </p>
          </td>
         <td> 
-        <p> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="SQL" />
-            <img src="https://www.talend.com/images/logo-talend-logomark.png" width="36" height="36" alt="Talend" />
-            <img src="https://upload.wikimedia.org/wikipedia/de/thumb/f/f9/Salesforce.com_logo.svg/1200px-Salesforce.com_logo.svg.png" width="36" height="36" alt="Talend" />
+        <p> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="50" height="50" alt="SQL" />
+            <img src="https://www.talend.com/images/logo-talend-logomark.png" width="50" height="50" alt="Talend" />
+            <img src="https://upload.wikimedia.org/wikipedia/de/thumb/f/f9/Salesforce.com_logo.svg/1200px-Salesforce.com_logo.svg.png" width="50" height="50" alt="Talend" />
             </p>  
         </td>
     </tr>
 <table>
-    
-
-
+  
 ## Socials
 <br>
 <p>
