@@ -26,7 +26,7 @@
 <br>
 <table >
     <tr>
-        <th>  Web Technologie </th>
+        <th>  Web technologies </th>
         <th>  Programing languages </th>
         <th>  Android </th>
         <th>  Data science and CRM  </th>
