@@ -26,8 +26,9 @@
 <br>
 <table >
     <tr>
-        <th> Web Technologie </th>
+        <th>  Web Technologie </th>
         <th>  Programing languages </th>
+        <th>  Android </th>
         <th>  Data science and CRM  </th>
     </tr>
     <tr>
@@ -45,6 +46,9 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" width="50" height="50" alt="Python" />
             </p>
          </td>
+        <td> 
+        <p> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Mit_app_inventor.png" width="150" height="75" alt="Mit app inventor" /></p>  
+        </td>
         <td> 
         <p> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="50" height="50" alt="SQL" />
             <img src="https://www.talend.com/images/logo-talend-logomark.png" width="50" height="50" alt="Talend" />
