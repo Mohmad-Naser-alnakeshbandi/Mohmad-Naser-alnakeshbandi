@@ -29,7 +29,7 @@
         <th>  Web technologies </th>
         <th>  Programing languages </th>
         <th>  Android </th>
-        <th>  Data science and CRM  </th>
+        <th>  Data  and CRM  </th>
     </tr>
     <tr>
         <td>  <p>
