@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="100%" height="100%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+</p>
+
 # Hi 👋 I'm Mohamad Naser Alnakeshbandi</h1>
 ## Computer Science Student 
 ### I love to write code and dealing with technology challenges 
@@ -19,34 +23,37 @@
 
 ## Skills
 <br>
+<table>
+    <tr>
+        <th> Web Technologie </th>
+        <th>  Programing languages </th>
+        <th>  Data science and CRM  </th>
+    </tr>
+    <tr>
+        <td>  <p>
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="HTML5" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
+            </p> 
+         </td>
+        <td><p>
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C+">       
+            <img src="https://emoji.gg/assets/emoji/java.png" width="64px" height="64px" alt="java">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" width="36" height="36" alt="Python" />
+            </p>
+         </td>
+        <td> 
+        <p> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="SQL" />
+            <img src="https://www.talend.com/images/logo-talend-logomark.png" width="36" height="36" alt="Talend" />
+            <img src="https://upload.wikimedia.org/wikipedia/de/thumb/f/f9/Salesforce.com_logo.svg/1200px-Salesforce.com_logo.svg.png" width="36" height="36" alt="Talend" />
+            </p>  
+        </td>
+    </tr>
+<table>
+    
 
-#### Web Technologie
-
-<br>
-<p>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="HTML5" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
-</p>
-
-#### Programing languages
-<br>
-<p>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C+">       
-<img src="https://emoji.gg/assets/emoji/java.png" width="64px" height="64px" alt="java">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" width="36" height="36" alt="Python" />
-</p>
-
-#### Data science and CRM 
-<br>
-<p>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="SQL" />
-<img src="https://www.talend.com/images/logo-talend-logomark.png" width="36" height="36" alt="Talend" />
-<img src="https://upload.wikimedia.org/wikipedia/de/thumb/f/f9/Salesforce.com_logo.svg/1200px-Salesforce.com_logo.svg.png" width="36" height="36" alt="Talend" />
-</p>
-<hr>
 
 ## Socials
 <br>
