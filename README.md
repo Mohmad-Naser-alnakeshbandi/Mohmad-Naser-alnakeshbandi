@@ -1,3 +1,9 @@
+<style>
+*{
+ background-color:white; 
+ }  
+<style>
+  
 # Hi 👋 I'm Mohamad Naser Alnakeshbandi</h1>
 
 <p align="center">
