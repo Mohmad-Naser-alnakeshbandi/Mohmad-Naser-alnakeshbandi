@@ -56,8 +56,9 @@
   
 ## Socials
   
-<br align="center">
-<p>
+<br>
+  
+<p align="center">
 <a href="https://www.facebook.com/people/محمد-رياض-النقشبندي/100010782363745/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/Mohmad-Naser-alnakeshbandi" target="_blank" rel="noreferrer">
