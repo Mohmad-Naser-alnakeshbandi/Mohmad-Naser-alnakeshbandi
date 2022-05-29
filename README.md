@@ -47,7 +47,7 @@
             </p>
          </td>
         <td> 
-        <p> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Mit_app_inventor.png" width="150" height="75" alt="Mit app inventor" /></p>  
+        <p> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Mit_app_inventor.png" width="100" height="50" alt="Mit app inventor" /></p>  
         </td>
         <td> 
         <p> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="50" height="50" alt="SQL" />
