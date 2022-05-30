@@ -1,7 +1,7 @@
 # Hi 👋 I'm Mohamad Naser Alnakeshbandi</h1>
 
 <p align="center">
-  <img width="100%" height="100%" src="https://art.pixilart.com/c44b4b15b813ebe.gif">
+  <img width="100%" height="100%" src="https://miro.medium.com/max/1400/1*v8Z6faF7ij8iSwunSMcTZA.gif">
 </p>
 
 ## Computer Science Student 
