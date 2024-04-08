@@ -24,9 +24,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mohmad-Naser-alnakeshbandi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Mohmad-Naser-alnakeshbandi&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamad-naser-alnakeshbandi) 
 
