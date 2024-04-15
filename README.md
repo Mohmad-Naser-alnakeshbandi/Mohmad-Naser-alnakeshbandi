@@ -16,9 +16,13 @@
 
 <hr>
 
+# 💾 Data :
+
 ![Talend Badge](https://img.shields.io/badge/Talend-FF6D70?logo=talend&logoColor=fff&style=flat)
 ![KNIME Badge](https://img.shields.io/badge/KNIME-FDD800?logo=knime&logoColor=000&style=flat)
 ![Power BI Badge](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=flat)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=fff&style=flat)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mohmad-Naser-alnakeshbandi&theme=dark&hide_border=false)
