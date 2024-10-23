@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎 A computer science student - Data Engineer<br>
+😎 A BI consultant - ETL Developer - Data Engineer<br>
 📍 Baden-Württemberg-Germany <br>
 💘 I love to write code and deal with technology challenges.<br>
 📜 Turning data chaos into engineering magic, one byte at a time 
