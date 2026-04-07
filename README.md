@@ -1,35 +1,76 @@
-# 💫 About Me:
-😎 A BI consultant - ETL Developer - Data Engineer<br>
-📍 Baden-Württemberg-Germany <br>
-💘 I love to write code and deal with technology challenges.<br>
-📜 Turning data chaos into engineering magic, one byte at a time 
+# 👋 Hallo, ich bin Mohamad Naser Alnakshbandi
 
-# 💻 Tech Stack:
-![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+### Data Engineer & BI/AI Consultant · 📍 Pforzheim, Deutschland
 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+> *„Datenchaos in skalierbare Architekturen verwandeln – eine Pipeline nach der anderen."*
 
-![Salesfoce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamad-naser-alnakeshbandi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=github&logoColor=white)](https://mohmad-naser-alnakeshbandi.github.io/Portfolio)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Mohamad-Naser-Alnakshbandi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:alnakshbandi.mohamad.naser@gmail.com)
 
+---
 
-# 💾 Data :
+## 🧠 Über mich
 
-![Talend Badge](https://img.shields.io/badge/Talend-FF6D70?logo=talend&logoColor=fff&style=flat)
-![KNIME Badge](https://img.shields.io/badge/KNIME-FDD800?logo=knime&logoColor=000&style=flat)
-![Power BI Badge](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=flat)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=fff&style=flat)
+Ich bin Data Engineer & BI/AI Consultant mit Fokus auf datengetriebene Transformation im Mittelstand.  
+Meine Schwerpunkte:
 
+- 🔧 Aufbau skalierbarer **Data Pipelines** & moderner **ETL/CDC-Prozesse**
+- 🏔️ **Open Lakehouse Architekturen** mit Apache Iceberg & Snowflake
+- 🤖 Entwicklung intelligenter **AI Agents** für BI- und Automatisierungslösungen (LLMs)
+- 📊 BI-Lösungen mit **Qlik Sense** & **Power BI**
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mohmad-Naser-alnakeshbandi&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohmad-Naser-alnakeshbandi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mohmad-Naser-alnakeshbandi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🛠️ Tech Stack
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamad-naser-alnakeshbandi) 
+**Sprachen**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
+**Datenintegration & ETL**  
+![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat&logo=talend&logoColor=white)
+![Qlik Replicate](https://img.shields.io/badge/Qlik_Replicate-009848?style=flat&logo=qlik&logoColor=white)
+![KNIME](https://img.shields.io/badge/KNIME-FDD800?style=flat&logo=knime&logoColor=black)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+
+**Cloud & Data Platform**  
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-0E8A16?style=flat&logo=apache&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+
+**BI & Visualisierung**  
+![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-009848?style=flat&logo=qlik&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+
+**AI & Automatisierung**  
+![LLM](https://img.shields.io/badge/LLM_Integration-7B2FBE?style=flat&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=flat&logo=anthropic&logoColor=white)
+
+**Datenbanken**  
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+---
+
+## 🏆 Zertifikate
+
+| Anbieter | Zertifikat |
+|----------|-----------|
+| ![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat&logo=talend&logoColor=white) | Talend Data Integration Certified Developer |
+| ![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat&logo=talend&logoColor=white) | Talend Certified Solution Architect |
+| ![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat&logo=talend&logoColor=white) | Talend Core Certified Developer |
+| ![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat&logo=talend&logoColor=white) | Talend Certified Sales Professional |
+| ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white) | SnowPro Associate: Platform Certification |
+| ![Qlik](https://img.shields.io/badge/Qlik-009848?style=flat&logo=qlik&logoColor=white) | Qlik Replicate Certification |
+| ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) | Databricks Fundamentals |
+| ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) | Generative AI Fundamentals |
+
+---
