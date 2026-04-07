@@ -19,7 +19,8 @@ Meine Schwerpunkte:
 - 🔧 Aufbau skalierbarer **Data Pipelines** & moderner **ETL/CDC-Prozesse**
 - 🏔️ **Open Lakehouse Architekturen** mit Apache Iceberg & Snowflake
 - 🤖 Entwicklung intelligenter **AI Agents** für BI- und Automatisierungslösungen (LLMs)
-- 📊 BI-Lösungen mit **Qlik Sense** & **Power BI**
+- 📊 BI-Lösungen mit **Qlik Sense**
+- ✌️ Entwicklung von Talend und Qlik Sense Extensions
 
 ---
 
