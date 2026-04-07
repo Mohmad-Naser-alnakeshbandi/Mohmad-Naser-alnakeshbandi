@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamad-naser-alnakeshbandi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=github&logoColor=white)](https://mohmad-naser-alnakeshbandi.github.io/Portfolio)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Mohamad-Naser-Alnakshbandi)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:alnakshbandi.mohamad.naser@gmail.com)
 
 ---
 
