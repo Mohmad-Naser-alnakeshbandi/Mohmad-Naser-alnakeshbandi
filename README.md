@@ -12,7 +12,7 @@
 
 ## 🧠 Über mich
 
-Ich bin Data Engineer & BI/AI Consultant mit Fokus auf datengetriebene Transformation im Mittelstand.  
+Ich binData Platform Engineer mit Fokus auf datengetriebene Transformation im Mittelstand.  
 Meine Schwerpunkte:
 
 - 🔧 Aufbau skalierbarer **Data Pipelines** & moderner **ETL/CDC-Prozesse**
